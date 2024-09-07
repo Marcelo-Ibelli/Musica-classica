@@ -1,5 +1,3 @@
-## **README.md**
-
 ### ** Busca Musical Clássica - Imersão Dev com Google Gemini**
 
 **O que é?**
