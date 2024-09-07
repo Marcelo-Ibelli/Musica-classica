@@ -38,10 +38,3 @@ Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum b
 
 **#músicaClássica #desenvolvimentoWeb #JavaScript**
 
-**Observações:**
-
-* **Personalize:** Adapte este README para a sua realidade, adicionando mais detalhes sobre o projeto, as tecnologias utilizadas e as suas expectativas.
-* **Imagens:** Inclua imagens para deixar o README mais atrativo e visualmente interessante.
-* **Links:** Adicione links para os seus perfis nas redes sociais ou para outros projetos.
-
-**Este README é apenas um exemplo e pode ser adaptado para atender às suas necessidades específicas.**
